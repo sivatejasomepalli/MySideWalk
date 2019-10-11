@@ -1,0 +1,12 @@
+Images:
+Capture2.png states the image of the combined gegoson layers
+1.png states the kc-neighborhoods.json
+2.png states the kc-tracts.json
+
+Use Codesandox.io 
+
+Just copy paste the code which is shown as per the directories to run without errors
+
+package.json has the dependencies
+
+geoJson files are in the src directory no need to copy those
